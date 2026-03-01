@@ -1,0 +1,1 @@
+Study Database Lecture|HIGH|false|It covers ER Mode
